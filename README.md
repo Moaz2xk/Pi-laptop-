@@ -14,6 +14,7 @@ Compute	Raspberry Pi 5 — 8GB RAM
 ![images (2)](https://github.com/user-attachments/assets/eb33b0dc-a061-48b9-a618-b197b9a05c79)
 
 Display	MSI PRO MP161 E2 — 15.6" IPS FHD 1920x1080 60Hz
+
 Storage	120GB SATA SSD in USB 3.0 enclosure
 Cooling	Raspberry Pi 5 Active Cooler
 Battery	Dual 12V 6000mAh Li-ion packs
