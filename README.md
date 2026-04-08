@@ -18,8 +18,10 @@ Display	MSI PRO MP161 E2 — 15.6" IPS FHD 1920x1080 60Hz
 
 Storage	120GB SATA SSD in USB 3.0 enclosure
 Cooling	Raspberry Pi 5 Active Cooler
-Battery	Dual 12V 6000mAh Li-ion packs
-Power regulation	12V → 5V DC-DC buck converter (5A+ rated)
+Battery	3.7V 10000mAh LiPo packs
+<img width="580" height="572" alt="Screenshot 2026-04-08 102748" src="https://github.com/user-attachments/assets/27f2fbe8-9f31-451e-b1a0-7b0027e88941" />
+
+Power regulation	3.7V → 5V DC-DC buck converter (5A+ rated)
 Chassis	Custom 3D printed — design in progress
 OS	Linux Mint
 ---
