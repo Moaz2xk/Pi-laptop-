@@ -1,6 +1,6 @@
-# Pi-laptop-
+#CUSTOM-LAPTOP
 
-A custom-built portable laptop based on the Raspberry Pi 5, designed and fabricated from scratch — including a 3D printed chassis, custom power system, and portable display.
+A custom-built portable laptop based on the LattePanda 3 Delta 864, designed and fabricated from scratch — including a 3D printed chassis, custom power system, and portable display.
 ---
 Project Status
 In Planning — parts list finalised, chassis design in progress.
@@ -10,14 +10,14 @@ I wanted a portable Linux machine I actually built myself. Not a modified existi
 ---
 Hardware Specification
 Component	Details
-Compute	Raspberry Pi 5 — 8GB RAM
-![images (2)](https://github.com/user-attachments/assets/eb33b0dc-a061-48b9-a618-b197b9a05c79)
+Compute	LattePanda 3 Delta 864 — 8GB RAM
+![maxresdefault](https://github.com/user-attachments/assets/a2ddf405-c245-4040-aa44-263951e2978b)
+
 
 Display	MSI PRO MP161 E2 — 15.6" IPS FHD 1920x1080 60Hz
 ![Screenshot_2026-04-07-17-50-11-57_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/942b5d0b-d48f-4262-ae40-f40a4d12a22d)
 
-Storage	120GB SATA SSD in USB 3.0 enclosure
-Cooling	Raspberry Pi 5 Active Cooler
+Storage	120GB NVME SSD in M.key slot
 Battery	3.7V 10000mAh LiPo packs
 <img width="580" height="572" alt="Screenshot 2026-04-08 102748" src="https://github.com/user-attachments/assets/27f2fbe8-9f31-451e-b1a0-7b0027e88941" />
 
